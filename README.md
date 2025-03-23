@@ -20,3 +20,6 @@ What should I do on a trip to Europe?
 
 Response:
 It's really a personal choice. You can do a lot of walking in cities. You can do a lot of sightseeing. You can do a combination of sightseeing and walking. You can rent a car and drive. You can take a train. You can fly. You can do any combination of those things. You can go to the beach and relax
+
+- [ ] Add Mistral 7B
+- [ ] Add Gemma3
